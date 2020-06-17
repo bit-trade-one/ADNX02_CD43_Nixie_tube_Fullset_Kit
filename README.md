@@ -14,6 +14,24 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/adnx02kosaku/)!
 
+## [マニュアル](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/blob/master/Manual/DL_tube.pdf)
+
+## [PCアプリ](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/App)
+
+### [ライブラリ](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/Library)
+
+### [サンプル](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/Sample)
+
+### [PCアプリソース](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/App_source)
+
+### [ファームウェア](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/Firmware)
+
+### [ファームソース](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/Firmware_source)
+
+### [基板図](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/Dimensions)
+
+### [回路図](https://github.com/bit-trade-one/ADNX02_CD43_Nixie_tube_Fullset_Kit/tree/master/Schematics)
+
 ## 製品仕様
 
     製品名：CD43ニキシー管まるごとセット  
